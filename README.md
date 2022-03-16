@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AungKoKoPhyo97
-- 👀 I’m interested in mobile app development.
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on mobile app
+- 👀 I’m interested in Java and Flutter.
+- 🌱 I’m currently learning Spring Framework
 - 📫 How to reach me akkp.1997.kp@gmail.com 
 
 <!---
