@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AungKoKoPhyo97
-- 👀 I’m interested in Java and Flutter.
-- 🌱 I’m currently learning Spring Framework
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Spring Framework and ReactJs
 - 📫 How to reach me akkp.1997.kp@gmail.com 
 
 <!---
